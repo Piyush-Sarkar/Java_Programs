@@ -43,9 +43,7 @@ public class Calculator {
                     System.out.println("Division =: " + c.divide(a, b));
                     break;
                     case '!':
-                    System.exit(0); 
-
-            
+                    System.exit(0);            
                 default:
                 System.out.println("Wrong choice " );
             }
